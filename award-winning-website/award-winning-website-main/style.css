@@ -1,0 +1,15 @@
+.wrapper .scene-2{
+    display: none;
+}
+.wrapper:hover .scene-1{
+    display: none;
+
+}
+.wrapper:hover .scene-2{
+    display:block;
+}
+.box:hover{
+    z-index: 100;
+    box-shadow: 10px 5px 5px gray;
+
+}
